@@ -71,15 +71,15 @@ Feature importance analysis showed that:
 ## Sample Outputs
 
 ### Baseline Model
-![Baseline Model](images/BaselineModel.jpeg)
+![Baseline Model](images%20folder/BaselineModel.jpeg)
 
 ### Enhanced Model
-![Enhanced Model](images/EnhancedModel.jpeg)
+![Enhanced Model](images%20folder/EnhancedModel.jpeg)
 
 ### ECG Signal Preprocessing
-![ECG Plot](images/RawVsSmoothed.jpeg)
+![ECG Plot](images%20folder/RawVsSmoothed.jpeg)
 
 ### Feature Importance
-![Feature Importance](images/ImportanceAnalysis.jpeg)
+![Feature Importance](images%20folder/ImportanceAnalysis.jpeg)
 
 Independent (self-initiated) project focused on applying signal processing and machine learning techniques to biomedical data.
