@@ -82,4 +82,7 @@ Feature importance analysis showed that:
 ### Feature Importance
 ![Feature Importance](images%20folder/ImportanceAnalysis.jpeg)
 
+## Project Type
+Independent (self-initiated) project focused on applying signal processing and machine learning techniques to biomedical data.
+
 Independent (self-initiated) project focused on applying signal processing and machine learning techniques to biomedical data.
